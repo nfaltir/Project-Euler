@@ -32,8 +32,7 @@ print("\n==========Fibonacci Sequence==========\n")
 # ask user to enter max length of fibonacci sequence
 #sequence_length = int(input("Enter max length of sequence:"))
 
-
-count = 1
+#create variables to enforce algo rules
 maxNum = 4000000
 prevNum = 0
 evenFibSum = 0  
