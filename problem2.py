@@ -36,6 +36,7 @@ print("\n==========Fibonacci Sequence==========\n")
 maxNum = 4000000
 prevNum = 0
 evenFibSum = 0  
+count = 0
 
 while prevNum < maxNum:
     prevNum = fibonacci(count)
